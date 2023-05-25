@@ -8,23 +8,23 @@
 
 - 0.0.0: không code, không báo cáo
 
-- 0.0.1: `/HelloWorld/{Tên_của_bạn}/001`
+- 0.0.1: `/HelloWorld/{Tên_của_bạn}/Task001`
 
-- 0.0.2: `/HelloWorld/{Tên_của_bạn}/002`
+- 0.0.2: `/HelloWorld/{Tên_của_bạn}/Task002`
 
 ## Task "HTTP Server"
 
-- 0.1.1: `/HTTPServer/{Tên_của_bạn}/011`
+- 0.1.1: `/HTTPServer/{Tên_của_bạn}/Task011`
 
-- 0.1.2: `/HTTPServer/{Tên_của_bạn}/012`
+- 0.1.2: `/HTTPServer/{Tên_của_bạn}/Task012`
 
 ## Task "Reboot"
 
-- 0.2.1: `/Reboot/{Tên_của_bạn}/021`
+- 0.2.1: `/Reboot/{Tên_của_bạn}/Task021`
 
-- 0.2.2: `/Reboot/{Tên_của_bạn}/022`
+- 0.2.2: `/Reboot/{Tên_của_bạn}/Task022`
 
-> Ghi chú: Có thể kết hợp task 0.2.1 và 0.2.2, khi đó hãy đưa code vào thư mục `/Reboot/{Tên_của_bạn}/02x`
+> Ghi chú: Có thể kết hợp task 0.2.1 và 0.2.2, khi đó hãy đưa code vào thư mục `/Reboot/{Tên_của_bạn}/Task02x`
 
 ## Task "Review"
 
