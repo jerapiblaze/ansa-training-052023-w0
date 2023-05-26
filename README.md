@@ -2,7 +2,11 @@
 
 1. Hãy clone repo này về máy bạn.
 
-2. Tạo các thư mục theo mẫu, thêm code vào các thư mục tương ứng rồi tạo pull request.
+2. Tạo branch mới theo cú pháp `{tên_của_bạn}_{tên_task}`.
+
+3. Tạo các thư mục theo mẫu, thêm code vào các thư mục tương ứng vào branch vừa tạo.
+
+4. Tạo Pull Request
 
 ## Task "Hello World"
 
