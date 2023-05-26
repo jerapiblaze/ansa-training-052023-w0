@@ -1,0 +1,26 @@
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Xml.Serialization;
+//using System.Text;
+//using System.Threading.Tasks;
+
+namespace StudentList
+{
+    internal class Student 
+    {
+        public string Name {get;set;}
+        public int Id {get; set;}
+        public double Score{get; set;}
+
+        public Student(int id, string name, double score)
+        {
+            this.Id = id;
+            this.Name=name;
+            this.Score=score;
+            
+        }
+    }
+}
+
