@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\clss\\clss.csproj": {}
+    "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\clss.csproj": {}
   },
   "projects": {
-    "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\clss\\clss.csproj": {
+    "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\clss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\clss\\clss.csproj",
+        "projectUniqueName": "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\clss.csproj",
         "projectName": "clss",
-        "projectPath": "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\clss\\clss.csproj",
+        "projectPath": "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\clss.csproj",
         "packagesPath": "C:\\Users\\teemo\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\clss\\obj\\",
+        "outputPath": "D:\\Code\\task in lab\\ansa-training-052023-w0\\HelloWorld\\TranMinh\\Task002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\teemo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StudentList
+namespace Task002.Types
 {
     public class StudentList
     {

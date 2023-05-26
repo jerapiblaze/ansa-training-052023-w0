@@ -6,9 +6,9 @@ using System.Xml.Serialization;
 //using System.Text;
 //using System.Threading.Tasks;
 
-namespace StudentList
+namespace Task002.Types
 {
-    internal class Student 
+    public class Student 
     {
         public string Name {get;set;}
         public int Id {get; set;}
@@ -18,8 +18,7 @@ namespace StudentList
         {
             this.Id = id;
             this.Name=name;
-            this.Score=score;
-            
+            this.Score=score;  
         }
     }
 }
