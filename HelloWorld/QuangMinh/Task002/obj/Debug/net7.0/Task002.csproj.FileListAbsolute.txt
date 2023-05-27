@@ -1,0 +1,15 @@
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/bin/Debug/net7.0/Task002
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/bin/Debug/net7.0/Task002.deps.json
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/bin/Debug/net7.0/Task002.runtimeconfig.json
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/bin/Debug/net7.0/Task002.dll
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/bin/Debug/net7.0/Task002.pdb
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/Task002.csproj.AssemblyReference.cache
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/Task002.GeneratedMSBuildEditorConfig.editorconfig
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/Task002.AssemblyInfoInputs.cache
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/Task002.AssemblyInfo.cs
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/Task002.csproj.CoreCompileInputs.cache
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/Task002.dll
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/refint/Task002.dll
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/Task002.pdb
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/Task002.genruntimeconfig.cache
+/home/moenguyenx/ansa-training-052023-w0/HelloWorld/QuangMinh/Task002/obj/Debug/net7.0/ref/Task002.dll
