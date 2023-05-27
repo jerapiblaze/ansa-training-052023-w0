@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "d:\\Code\\task in lab\\ansa-training-052023-w0\\HTTPServer\\minhthanh\\Task012\\obj\\Debug\\net7.0\\project.razor.json",
-  "FilePath": "d:\\Code\\task in lab\\ansa-training-052023-w0\\HTTPServer\\minhthanh\\Task012\\Task012.csproj",
+  "SerializedFilePath": "d:\\Code\\task in lab\\ansa-training-052023-w0\\HTTPServer\\minhthanh\\Task011\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "d:\\Code\\task in lab\\ansa-training-052023-w0\\HTTPServer\\minhthanh\\Task011\\Task011.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,7 +18642,7 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "Task012",
+  "RootNamespace": "Task011",
   "Documents": [],
   "SerializationFormat": "0.3"
 }
