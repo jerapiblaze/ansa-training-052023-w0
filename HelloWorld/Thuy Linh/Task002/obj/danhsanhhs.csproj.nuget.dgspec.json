@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\Github.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\ansa-training-052023-w0\\danhsanhhs\\danhsanhhs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\Github.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\ansa-training-052023-w0\\danhsanhhs\\danhsanhhs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\Github.csproj",
-        "projectName": "Github",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\Github.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\ansa-training-052023-w0\\danhsanhhs\\danhsanhhs.csproj",
+        "projectName": "danhsanhhs",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\ansa-training-052023-w0\\danhsanhhs\\danhsanhhs.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\C#\\Github\\ansa-training-052023-w0\\danhsanhhs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
