@@ -16,6 +16,8 @@
 
 - 0.0.2: `/HelloWorld/{Tên_của_bạn}/Task002`
 
+- Key của task: https://husteduvn-my.sharepoint.com/:w:/g/personal/thanh_nm210802_sis_hust_edu_vn/Ef5pquCgtrpEiFgbTMateGgB_C4AmcbT-ZbtdTgiSv4Seg?e=LrCxH6
+
 ## Task "HTTP Server"
 
 - 0.1.1: `/HTTPServer/{Tên_của_bạn}/Task011`
