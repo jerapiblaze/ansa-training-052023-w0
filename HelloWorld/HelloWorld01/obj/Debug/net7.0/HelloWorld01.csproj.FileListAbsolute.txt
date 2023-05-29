@@ -1,0 +1,15 @@
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/bin/Debug/net7.0/HelloWorld01
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/bin/Debug/net7.0/HelloWorld01.deps.json
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/bin/Debug/net7.0/HelloWorld01.runtimeconfig.json
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/bin/Debug/net7.0/HelloWorld01.dll
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/bin/Debug/net7.0/HelloWorld01.pdb
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/HelloWorld01.csproj.AssemblyReference.cache
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/HelloWorld01.GeneratedMSBuildEditorConfig.editorconfig
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/HelloWorld01.AssemblyInfoInputs.cache
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/HelloWorld01.AssemblyInfo.cs
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/HelloWorld01.csproj.CoreCompileInputs.cache
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/HelloWorld01.dll
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/refint/HelloWorld01.dll
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/HelloWorld01.pdb
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/HelloWorld01.genruntimeconfig.cache
+/home/trn_huyy/Training/ansa-training-052023-w0/HelloWorld/HelloWorld01/obj/Debug/net7.0/ref/HelloWorld01.dll
