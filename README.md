@@ -16,6 +16,8 @@
 
 - 0.0.2: `/HelloWorld/{Tên_của_bạn}/Task002`
 
+> Key của task: https://husteduvn-my.sharepoint.com/:w:/g/personal/thanh_nm210802_sis_hust_edu_vn/Ef5pquCgtrpEiFgbTMateGgB_C4AmcbT-ZbtdTgiSv4Seg?e=LrCxH6
+
 ## Task "HTTP Server"
 
 - 0.1.1: `/HTTPServer/{Tên_của_bạn}/Task011`
@@ -35,3 +37,5 @@
 Báo cáo và slide hãy up vào thư mục `/Review` theo định dạng tên file `{tên_của_bạn}-ansa-trainning-052023-report.pdf` với file báo cáo và `{tên_của_bạn}-ansa-trainning-052023-slide.pdf` với file slide.
 
 Ví dụ: `minhthanh-ansa-training-052023-report.pdf`
+
+> File Hướng dẫn: https://husteduvn-my.sharepoint.com/:w:/r/personal/thanh_nm210802_sis_hust_edu_vn/Documents/Documents/Lab_Journal/training_report/plan.docx?d=wc3657cc9c4034d389c492eaf29566253&csf=1&web=1&e=MD1oqP
