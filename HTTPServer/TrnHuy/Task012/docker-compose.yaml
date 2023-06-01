@@ -1,0 +1,29 @@
+version: '3.4'
+services:
+  apim-db:
+    image: mysql:5.7
+    command: --character-set-server=utf8 --collation-server=utf8_bin
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+    ports:
+      - 3306:3306 
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=apim_db
+  apim:
+    image: wso2/wso2am:3.2.0
+    # ports:
+    #   - 9443:9443
+    #   - 8280:8280
+    #   - 8243:8243
+    network_mode: host  
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    privileged: true
+    depends_on:
+      - apim-db
+    environment:
+      - DB_DRIVER=mysql
+      - DB_URL=jdbc:mysql://apim_db:3306/apim_db?useSSL=false
+      - DB_USER=root
+      - DB_PASSWORD=root
