@@ -8,6 +8,8 @@
 
 4. Tạo Pull Request
 
+> File Kế hoạch: https://husteduvn-my.sharepoint.com/:w:/r/personal/thanh_nm210802_sis_hust_edu_vn/Documents/Documents/Lab_Journal/training_report/plan.docx?d=wc3657cc9c4034d389c492eaf29566253&csf=1&web=1&e=MD1oqP
+
 ## Task "Hello World"
 
 - 0.0.0: không code, không báo cáo
@@ -39,5 +41,3 @@
 Báo cáo và slide hãy up vào thư mục `/Review` theo định dạng tên file `{tên_của_bạn}-ansa-trainning-052023-report.pdf` với file báo cáo và `{tên_của_bạn}-ansa-trainning-052023-slide.pdf` với file slide.
 
 Ví dụ: `minhthanh-ansa-training-052023-report.pdf`
-
-> File Hướng dẫn: https://husteduvn-my.sharepoint.com/:w:/r/personal/thanh_nm210802_sis_hust_edu_vn/Documents/Documents/Lab_Journal/training_report/plan.docx?d=wc3657cc9c4034d389c492eaf29566253&csf=1&web=1&e=MD1oqP
