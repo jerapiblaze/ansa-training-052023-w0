@@ -3,7 +3,6 @@ namespace Task02x.Utils;
 
 public class RandomString{
     private static Random rand = new Random();
-    private static int strlen;
     private static string lowercases = "abcdefghijklmnopqrstuvwxyz";
     private static string uppercases = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private static string numeric = "0123456789";
