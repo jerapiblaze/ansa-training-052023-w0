@@ -97,6 +97,9 @@ public class StudentController : Controller
             return Results.Problem(e.ToString());
         }
         student = _operation.Students.GetStudentById(id);
+        if (student == null){
+            return Results.Problem();
+        }
         var studentResDTO = new StudentResponseDTO(student);
         return Results.Ok(studentResDTO);
     }
