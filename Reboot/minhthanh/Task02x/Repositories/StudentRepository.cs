@@ -4,8 +4,9 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Task02x.Core.Models;
 using Task02x.Core.Repositories;
+using Task02x.Persistence;
 
-namespace Task02x.Persistence.Repositories;
+namespace Task02x.Repositories;
 
 public class StudentRepository : IStudentRepository {
     private readonly AppicationDbContext _context;

@@ -1,6 +1,6 @@
 using Task02x.Core;
 using Task02x.Core.Repositories;
-using Task02x.Persistence.Repositories;
+using Task02x.Repositories;
 
 namespace Task02x.Persistence;
 
