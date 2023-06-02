@@ -56,9 +56,10 @@ public class Program
         app.MapPut("/students/{id}", async (HttpContext context) =>
         {
             var id = int.Parse(context.Request.RouteValues["id"].ToString());
+            //Read the request body
             var requestBody = await context.Request.BodyReader.ReadAsync();
             var studentJson = requestBody.Buffer.FirstSpan.ToArray();
-
+            
             var updatedStudent = JsonSerializer.Deserialize<Student>(studentJson);
 
             var existingStudent = students.Find(s => s.id == id);
