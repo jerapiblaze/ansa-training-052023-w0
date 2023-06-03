@@ -1,0 +1,15 @@
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\bin\Debug\net7.0\Task001.exe
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\bin\Debug\net7.0\Task001.deps.json
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\bin\Debug\net7.0\Task001.runtimeconfig.json
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\bin\Debug\net7.0\Task001.dll
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\bin\Debug\net7.0\Task001.pdb
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\Task001.csproj.AssemblyReference.cache
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\Task001.AssemblyInfoInputs.cache
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\Task001.AssemblyInfo.cs
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\Task001.csproj.CoreCompileInputs.cache
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\Task001.dll
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\refint\Task001.dll
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\Task001.pdb
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\Task001.genruntimeconfig.cache
+G:\OneDrive\OneDrive - Hanoi University of Science and Technology\TaiLieu\[1] Lab ANSA\Traning\Test\ansa-training-052023-w0\HelloWorld\NhatNam\Task001\obj\Debug\net7.0\ref\Task001.dll
