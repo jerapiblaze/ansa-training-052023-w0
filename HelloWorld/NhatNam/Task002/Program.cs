@@ -57,7 +57,7 @@ namespace Program
 
         public void printStudents()
         {
-            for (int i = 0; i < numOfStudents(); i++)
+            for (int i = 1; i <= numOfStudents(); i++)
             {
                 Console.Write(i + ". ");
                 students[i].printStudent();
@@ -71,26 +71,19 @@ namespace Program
             Console.Write("Enter ID to delete: ");
             ID = Convert.ToInt32(Console.ReadLine());
 
-            bool deleted = false;
+            int initialCount = students.Count;
 
-            foreach (Student i in students)
+            students.RemoveAll(student => student.ID == ID);
+
+            int finalCount = students.Count;
+
+            if (finalCount < initialCount)
             {
-                if (i.ID == ID)
-                {
-                    if (students.Remove(i))
-                    {
-                        deleted = true;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Can't remove student");
-                    }
-                }
+                Console.WriteLine("Student deleted successfully.");
             }
-
-            if (!deleted)
+            else
             {
-                Console.WriteLine("Invalid ID!");
+                Console.WriteLine("Invalid ID or student not found.");
             }
         }
 
@@ -127,32 +120,46 @@ namespace Program
         }
     }
 
-    static void Main()
+    public class Program
     {
-        Students listOfStudents = new Students();
-
-        while (true)
+        static void Main()
         {
-            Console.WriteLine("\n\nSelect Options: ");
-            Console.WriteLine("     1. Add a Student.");
-            Console.WriteLine("     2. Delete a Student.");
-            Console.WriteLine("     3. Modify a Student.");
-            Console.WriteLine("     4. Show all Students.");
-            Console.WriteLine("     5. Quit.");
+            Students listOfStudents = new Students();
 
-            Console.Write("\nYour choice: ");
-            int choice = Convert.ToInt32(Console.ReadLine());
-
-            switch (choice)
+            while (true)
             {
-                case 1:
+                Console.WriteLine("\n\nSelect Options: ");
+                Console.WriteLine("     1. Add a Student.");
+                Console.WriteLine("     2. Delete a Student.");
+                Console.WriteLine("     3. Modify a Student.");
+                Console.WriteLine("     4. Show all Students.");
+                Console.WriteLine("     5. Quit.");
 
-                    break;
+                Console.Write("\nYour choice: ");
+                int choice = Convert.ToInt32(Console.ReadLine());
 
+                switch (choice)
+                {
+                    case 1:
+                        listOfStudents.addStudent();
+                        break;
+                    case 2:
+                        listOfStudents.deleteStudent();
+                        break;
+                    case 3:
+                        listOfStudents.modifyStudent();
+                        break;
+                    case 4:
+                        listOfStudents.printStudents();
+                        break;
+                    case 5:
+                        Environment.Exit(0);
+                        break;
+                    default:
+                        Console.WriteLine("You must enter a number from 1 to 5");
+                        break;
+                }
             }
-
         }
-
-
     }
 }
