@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\helloworld\\Task02\\Task02.csproj": {}
+    "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\ansa-training-052023-w0\\HelloWorld\\Trọng Tín\\Task02\\Task02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\helloworld\\Task02\\Task02.csproj": {
+    "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\ansa-training-052023-w0\\HelloWorld\\Trọng Tín\\Task02\\Task02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\helloworld\\Task02\\Task02.csproj",
+        "projectUniqueName": "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\ansa-training-052023-w0\\HelloWorld\\Trọng Tín\\Task02\\Task02.csproj",
         "projectName": "Task02",
-        "projectPath": "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\helloworld\\Task02\\Task02.csproj",
+        "projectPath": "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\ansa-training-052023-w0\\HelloWorld\\Trọng Tín\\Task02\\Task02.csproj",
         "packagesPath": "C:\\Users\\Trong Tin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\helloworld\\Task02\\obj\\",
+        "outputPath": "C:\\Users\\Trong Tin\\Desktop\\GitRepos\\ansa-training-052023-w0\\HelloWorld\\Trọng Tín\\Task02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Trong Tin\\AppData\\Roaming\\NuGet\\NuGet.Config"
