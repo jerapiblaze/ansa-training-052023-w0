@@ -15,6 +15,10 @@ public class StudentController : Controller
     {
         _context = context;
     }
+    [HttpGet("/")]
+    public IResult GetHelloWorld(){
+        return Results.Ok("Hello another world");
+    }
     [HttpGet("{id}")]
     public IResult Get([FromRoute]int id) {
         return Results.Ok(_context.Student.Find(id));
