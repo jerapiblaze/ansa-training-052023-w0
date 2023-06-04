@@ -10,7 +10,7 @@ app.MapGet("/", () => "Hello another world!");
 
 app.MapGet("/student", async (StudentDb db) => await db.Students.Select(x=> new StudentDTO(x)).ToListAsync());
 
-app.MapGet("/todoitems/{id}", async (int id, StudentDb db) =>
+app.MapGet("/student/{id}", async (int id, StudentDb db) =>
     await db.Students.FindAsync(id)
         is Student stu
             ? Results.Ok(new StudentDTO(stu))
