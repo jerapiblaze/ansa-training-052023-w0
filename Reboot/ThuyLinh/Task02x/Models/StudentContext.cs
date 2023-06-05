@@ -11,3 +11,8 @@ public class StudentContext : DbContext
 
     public DbSet<StudentItem> StudentItems { get; set; } = null!;
 }
+
+
+
+
+

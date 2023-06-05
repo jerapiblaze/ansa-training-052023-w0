@@ -10949,11 +10949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\C#\\lmlai\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\C#\\lmlai\\ansa-training-052023-w0\\Reboot\\ThuyLinh\\Task02x\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\C#\\lmlai\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\C#\\lmlai\\ansa-training-052023-w0\\Reboot\\ThuyLinh\\Task02x\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\C#\\lmlai\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\C#\\lmlai\\ansa-training-052023-w0\\Reboot\\ThuyLinh\\Task02x\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -21,7 +21,7 @@ namespace StudentApi.Controllers
         }
 
         // GET: api/StudentItems
-        [HttpGet]
+        [HttpGet("/")]
         public async Task<ActionResult<IEnumerable<StudentItem>>> GetStudentItems()
         {
           if (_context.StudentItems == null)

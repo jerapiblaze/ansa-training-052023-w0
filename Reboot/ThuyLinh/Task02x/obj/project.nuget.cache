@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+GPVVw3b4Rq6iBI2S2qljp33xC57V/aLe9DvL1FpSK3kfIlnUP7FT9yzrNxadViVgK+aa2xNMK+Lxpa6ir1nQQ==",
+  "dgSpecHash": "3mJjaVMSXGfgRA9kQcaIcDcjcpwoc6gKLzoIa08+XVRo/SCTkXMkvMuoleaMaxQaffHMgxFKKmL32H5+5L0kbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\C#\\lmlai\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\C#\\lmlai\\ansa-training-052023-w0\\Reboot\\ThuyLinh\\Task02x\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
